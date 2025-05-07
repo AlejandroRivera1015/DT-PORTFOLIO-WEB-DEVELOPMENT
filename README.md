@@ -3,9 +3,18 @@
 
 POSGRADOS PANAMERICANA:
 1. https://posgrados-panamericana.up.edu.mx/
-2. https://posgrados-panamericana.up.edu.mx/test?hs_preview=JROZxrsj-123407401124
-3. https://posgrados-panamericana.up.edu.mx/cdmx/esdai/diplomado-en-experiencias-gourmet
+2. https://movil.up.edu.mx/-temporary-slug-7feca909-6a64-44a4-905f-86cf392f0b1c?hs_preview=XKfQFwUs-187993646009
+3. https://posgrados-panamericana.up.edu.mx/test?hs_preview=JROZxrsj-123407401124
+4. https://posgrados-panamericana.up.edu.mx/cdmx/esdai/diplomado-en-experiencias-gourmet
 
+NACDI
+1. https://movil.up.edu.mx/culturaldiplomacyinitiativemexico?hs_preview=xhUiKwnC-188650463624
+
+EBA
+1. https://eba.up.edu.mx/
+2. https://eba.up.edu.mx/licenciatura-en-musica
+3. https://eba.up.edu.mx/claustro
+4. https://eba.up.edu.mx/directorio
    
 UNIVERSIDAD PANAMERICANA ABIERTA:
 1. https://movil.up.edu.mx/universidad-panamericana-en-linea
@@ -25,19 +34,30 @@ PREPARATORIA PANAMERICANA:
 
 
 CENTRO EDUCATIVO ECA:
-1. https://www.ecagrupoeducativo.mx/eca
-2. https://blog.ecagrupoeducativo.mx/eca
-3. https://mkt.ecagrupoeducativo.mx/registrate-al-open-school
+1. https://www.ecagrupoeducativo.mx/-temporary-slug-7b340be9-1e70-48ab-bd81-989633c5962d?hs_preview=Bbrmjhlj-186304184993
+2. https://www.ecagrupoeducativo.mx/eca
+3. https://blog.ecagrupoeducativo.mx/eca-blog-index-2025-2
+4. https://blog.ecagrupoeducativo.mx/eca
+5. https://mkt.ecagrupoeducativo.mx/registrate-al-open-school
 
+CENTRO EDUCATIVO MEXICANO AMERICANO:
+1. https://www.ecagrupoeducativo.mx/ema
+2. https://blog.ecagrupoeducativo.mx/ema
 
 CENTRO EDUCATIVO CHIMALISTAC:
+https://www.ecagrupoeducativo.mx/-temporary-slug-9f757c5e-cee8-43ee-9ae7-bd38625825b3?hs_preview=oYANVYAG-185067556677
 1. https://www.ecagrupoeducativo.mx/chimalistac
-2. https://mkt.ecagrupoeducativo.mx/chimalistac/preescolar-bilingue
+2. https://blog.ecagrupoeducativo.mx/en/test-blog?hs_preview=lZHFiMSB-183354877854
 3. https://blog.ecagrupoeducativo.mx/chimalistac
 
+COLEGIO MINDSTONE:
+1. https://www.ecagrupoeducativo.mx/mindstone
+   
 CENTRO EDUCATIVO GREENLAND:
-1. https://www.ecagrupoeducativo.mx/greenland
-2. https://blog.ecagrupoeducativo.mx/greenland
+1. https://www.ecagrupoeducativo.mx/greenland/test?hs_preview=xknWuQjJ-186947990123
+2. https://www.ecagrupoeducativo.mx/greenland
+3. https://blog.ecagrupoeducativo.mx/greenland-2025
+4. https://blog.ecagrupoeducativo.mx/greenland
 
 CENTRO EDUCATIVO CEDROS-PASEO:
 1. https://cedros.colegios-cedros-paseo.mx/
